@@ -28,6 +28,7 @@ export const PriorityFilter = styled.ul`
 	padding: 12px 16px;
 	list-style: none;
 	top: 25px;
+	z-index: 10000;
 
 	li {
 		font-size: 14px;
